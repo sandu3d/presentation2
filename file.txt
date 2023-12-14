@@ -1,1 +1,3 @@
 Some content inside filenew line
+
+Content on 2nd line from feature branch
