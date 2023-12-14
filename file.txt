@@ -1,1 +1,1 @@
-Some content inside file
+Some content inside filenew line
