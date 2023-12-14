@@ -1,3 +1,5 @@
 Some content inside filenew line
 
 Changes on 2nd line from main and feature branches
+
+Other changes on 3rd line
